@@ -30,7 +30,7 @@ The dataset `orders.parquet` includes **3.9M+ order records** and has the follow
 
 ## 🧪 Tech Stack
 
-- **Python 3.x**
+- **Python 3.10**
 - **Pandas**, **NumPy**
 - **Scikit-learn**
 - **Matplotlib**, **Seaborn**
